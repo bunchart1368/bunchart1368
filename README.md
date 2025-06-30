@@ -2,17 +2,12 @@
 
 I'm Norapath Arjanurak, a Robotics and AI engineering graduate passionate about data, machine learning, and robotics integration. I enjoy solving complex problems by bridging the gap between AI models and real-world systems.
 
-- 🔭 I’m currently working on:
-  - Optimizing data lineage visualization tools and parsing engines for SQL structures.
-  - Developing multi-lineage modeling features using Python and dbt.
-
 - 🌱 I’m currently learning:
   - Advanced data engineering patterns, stream processing, and ML deployment best practices.
-  - Deeper architectures in computer vision for robotics applications.
 
 - 👯 I’m looking to collaborate on:
-  - Robotics control systems enhanced by AI/ML.
   - Interesting data engineering projects, especially involving BigQuery or AWS.
+  - Robotics control systems enhanced by AI/ML.
 
 - 💬 Ask me about:
   - Data pipelines, Kimball dimensional modeling, and BI dashboards.
@@ -23,7 +18,7 @@ I'm Norapath Arjanurak, a Robotics and AI engineering graduate passionate about 
   - LinkedIn: [linkedin.com/in/norapath-arjanurak](https://www.linkedin.com/in/norapath-arjanurak)
 
 - ⚡ Fun fact:
-  - Served as master of ceremonies for events with over 200 participants, blending engineering leadership with public speaking.
+  - 🍳 I love to cook and 🍽️ eat!
 
 ---
 
